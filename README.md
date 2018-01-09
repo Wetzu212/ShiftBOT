@@ -1,2 +1,2 @@
 # ShiftBOT
-My own discord bot
+My first discord bot, Don't judge if i make some mistakes
